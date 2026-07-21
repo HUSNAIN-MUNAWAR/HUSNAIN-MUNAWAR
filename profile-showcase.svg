@@ -1,0 +1,516 @@
+<svg width="1200" height="3372" viewBox="0 0 1200 3372" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="page_bg" x1="0" y1="0" x2="1200" y2="3372" gradientUnits="userSpaceOnUse"><stop stop-color="#070B16"/><stop offset="0.48" stop-color="#0B1222"/><stop offset="1" stop-color="#07151A"/></linearGradient>
+<linearGradient id="page_edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CF6" stop-opacity="0.35"/><stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.35"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0.35"/></linearGradient>
+</defs>
+<rect width="1200" height="3372" rx="30" fill="url(#page_bg)"/>
+<rect x="1.5" y="1.5" width="1197" height="3369" rx="28.5" stroke="url(#page_edge)" stroke-width="3"/>
+<g transform="translate(0 4)">
+  <defs>
+    <linearGradient id="hero_bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.56" stop-color="#111A33"/>
+      <stop offset="1" stop-color="#0B132B"/>
+    </linearGradient>
+    <linearGradient id="hero_accent" x1="128" y1="84" x2="930" y2="322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <radialGradient id="hero_orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(938 201) rotate(90) scale(151)">
+      <stop stop-color="#22D3EE" stop-opacity="0.34"/>
+      <stop offset="0.48" stop-color="#8B5CF6" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="hero_grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="hero_glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#hero_bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#hero_grid)"/>
+  <rect x="2" y="2" width="1196" height="416" rx="26" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="4"/>
+
+  <circle cx="935" cy="206" r="165" fill="url(#hero_orb)"/>
+  <circle cx="935" cy="206" r="111" stroke="url(#hero_accent)" stroke-opacity="0.65" stroke-width="2"/>
+  <circle cx="935" cy="206" r="78" stroke="#FFFFFF" stroke-opacity="0.15"/>
+  <circle cx="935" cy="206" r="42" fill="#0D172F" stroke="url(#hero_accent)" stroke-width="2"/>
+  <text x="935" y="197" text-anchor="middle" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI</text>
+  <text x="935" y="220" text-anchor="middle" fill="#94A3B8" font-size="11" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">SYSTEMS</text>
+
+  <g stroke="url(#hero_accent)" stroke-width="2" stroke-linecap="round" opacity="0.92">
+    <path d="M935 95V154"/>
+    <path d="M1046 206H989"/>
+    <path d="M935 317V258"/>
+    <path d="M824 206H881"/>
+    <path d="M856 127L895 166"/>
+    <path d="M1014 127L975 166"/>
+    <path d="M1014 285L975 246"/>
+    <path d="M856 285L895 246"/>
+  </g>
+
+  <g fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">
+    <text x="935" y="80" text-anchor="middle">PERCEPTION</text>
+    <text x="1066" y="211">REASONING</text>
+    <text x="935" y="344" text-anchor="middle">DELIVERY</text>
+    <text x="692" y="211">OPERATIONS</text>
+  </g>
+
+  <g filter="url(#hero_glow)">
+    <circle cx="935" cy="95" r="4" fill="#22D3EE"/>
+    <circle cx="1046" cy="206" r="4" fill="#8B5CF6"/>
+    <circle cx="935" cy="317" r="4" fill="#14B8A6"/>
+    <circle cx="824" cy="206" r="4" fill="#F59E0B"/>
+  </g>
+
+  <rect x="74" y="62" width="58" height="6" rx="3" fill="url(#hero_accent)"/>
+  <text x="74" y="126" fill="#F8FAFC" font-size="50" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="0.4">HUSNAIN MUNAWAR</text>
+  <text x="76" y="166" fill="#A5B4FC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">AI ENGINEER · COMPUTER VISION · PRODUCTION SYSTEMS</text>
+
+  <text x="76" y="226" fill="#CBD5E1" font-size="23" font-family="Arial, Helvetica, sans-serif">
+    <tspan x="76" dy="0">I build AI systems that move from perception</tspan>
+    <tspan x="76" dy="32">to decision to real-world action.</tspan>
+  </text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+    <rect x="74" y="313" width="170" height="38" rx="19" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" stroke-opacity="0.65"/>
+    <text x="159" y="337" text-anchor="middle" fill="#DDD6FE">COMPUTER VISION</text>
+
+    <rect x="258" y="313" width="145" height="38" rx="19" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <text x="330.5" y="337" text-anchor="middle" fill="#CFFAFE">AGENTIC AI</text>
+
+    <rect x="417" y="313" width="190" height="38" rx="19" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6" stroke-opacity="0.65"/>
+    <text x="512" y="337" text-anchor="middle" fill="#CCFBF1">PRODUCTION PLATFORMS</text>
+  </g>
+</g><g transform="translate(0 426)">
+  <defs>
+    <linearGradient id="profile_panel_idBg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.58" stop-color="#101A31"/>
+      <stop offset="1" stop-color="#0B1727"/>
+    </linearGradient>
+    <linearGradient id="profile_panel_idAccent" x1="58" y1="52" x2="1110" y2="281" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <radialGradient id="profile_panel_idGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 154) rotate(90) scale(180)">
+      <stop stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="profile_panel_idShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#profile_panel_idBg)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#profile_panel_idGlow)"/>
+  <rect x="2" y="2" width="1196" height="326" rx="26" stroke="#FFFFFF" stroke-opacity="0.075" stroke-width="4"/>
+
+  <rect x="58" y="48" width="72" height="5" rx="2.5" fill="url(#profile_panel_idAccent)"/>
+  <text x="58" y="88" fill="#94A3B8" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">01 / PROFILE</text>
+
+  <text x="58" y="137" fill="#F8FAFC" font-size="32" font-family="Arial, Helvetica, sans-serif" font-weight="800">Research-driven systems engineer</text>
+  <text x="58" y="173" fill="#CBD5E1" font-size="18" font-family="Arial, Helvetica, sans-serif">
+    <tspan x="58" dy="0">I connect machine intelligence with reliable software,</tspan>
+    <tspan x="58" dy="28">operator workflows and measurable real-world outcomes.</tspan>
+  </text>
+
+  <g filter="url(#profile_panel_idShadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="690" y="52" width="452" height="54" rx="16" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.55"/>
+    <circle cx="724" cy="79" r="8" fill="#8B5CF6"/>
+    <text x="748" y="75" fill="#A5B4FC" font-size="11" font-weight="700" letter-spacing="1.4">ROLE</text>
+    <text x="748" y="94" fill="#F8FAFC" font-size="14" font-weight="700">AI Engineer · Computer Vision Engineer</text>
+
+    <rect x="690" y="116" width="452" height="54" rx="16" fill="#111827" stroke="#22D3EE" stroke-opacity="0.55"/>
+    <circle cx="724" cy="143" r="8" fill="#22D3EE"/>
+    <text x="748" y="139" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.4">FOCUS</text>
+    <text x="748" y="158" fill="#F8FAFC" font-size="14" font-weight="700">Visual intelligence · Agents · Production AI</text>
+
+    <rect x="690" y="180" width="452" height="54" rx="16" fill="#111827" stroke="#14B8A6" stroke-opacity="0.55"/>
+    <circle cx="724" cy="207" r="8" fill="#14B8A6"/>
+    <text x="748" y="203" fill="#5EEAD4" font-size="11" font-weight="700" letter-spacing="1.4">APPROACH</text>
+    <text x="748" y="222" fill="#F8FAFC" font-size="14" font-weight="700">Systems-first · Evidence-based · Product-minded</text>
+
+    <rect x="690" y="244" width="452" height="54" rx="16" fill="#111827" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <circle cx="724" cy="271" r="8" fill="#F59E0B"/>
+    <text x="748" y="267" fill="#FCD34D" font-size="11" font-weight="700" letter-spacing="1.4">MISSION</text>
+    <text x="748" y="286" fill="#F8FAFC" font-size="14" font-weight="700">Make AI useful, measurable and reliable</text>
+  </g>
+
+  <path d="M58 256H630" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="58" y="286" fill="#94A3B8" font-size="13" font-family="Arial, Helvetica, sans-serif">Working at the intersection of</text>
+  <text x="58" y="310" fill="#F8FAFC" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700">perception  ×  intelligence  ×  operations</text>
+</g><g transform="translate(0 758)">
+  <defs>
+    <linearGradient id="project_ecosystem_bg2" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#10182D"/>
+    </linearGradient>
+    <linearGradient id="project_ecosystem_core" x1="468" y1="70" x2="733" y2="177" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="project_ecosystem_line" x1="600" y1="160" x2="600" y2="575" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <filter id="project_ecosystem_shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="700" rx="28" fill="url(#project_ecosystem_bg2)"/>
+  <rect x="2" y="2" width="1196" height="696" rx="26" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+
+  <text x="60" y="65" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="800">PROJECT ECOSYSTEM</text>
+  <text x="60" y="94" fill="#94A3B8" font-size="15" font-family="Arial, Helvetica, sans-serif">One system from perception to operations.</text>
+
+  <g filter="url(#project_ecosystem_shadow)">
+    <rect x="456" y="54" width="288" height="104" rx="24" fill="#111827" stroke="url(#project_ecosystem_core)" stroke-width="2.5"/>
+    <text x="600" y="94" text-anchor="middle" fill="#FFFFFF" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="800">AI SYSTEMS</text>
+    <text x="600" y="122" text-anchor="middle" fill="#CBD5E1" font-size="13" font-family="Arial, Helvetica, sans-serif">research → architecture → deployment</text>
+  </g>
+
+  <path d="M600 158V198" stroke="url(#project_ecosystem_line)" stroke-width="3"/>
+  <path d="M600 198H225V226" stroke="url(#project_ecosystem_line)" stroke-width="3"/>
+  <path d="M600 198V226" stroke="url(#project_ecosystem_line)" stroke-width="3"/>
+  <path d="M600 198H975V226" stroke="url(#project_ecosystem_line)" stroke-width="3"/>
+
+  <!-- Column cards -->
+  <g filter="url(#project_ecosystem_shadow)">
+    <rect x="55" y="226" width="340" height="350" rx="24" fill="#0F172A" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="2"/>
+    <rect x="430" y="226" width="340" height="350" rx="24" fill="#17151F" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="2"/>
+    <rect x="805" y="226" width="340" height="350" rx="24" fill="#0E1C1A" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="2"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="84" y="270" fill="#DBEAFE" font-size="19" font-weight="800">01  PERCEPTION</text>
+    <text x="84" y="294" fill="#93C5FD" font-size="12" font-weight="700" letter-spacing="1">SEE AND MEASURE THE PHYSICAL WORLD</text>
+
+    <text x="459" y="270" fill="#EDE9FE" font-size="19" font-weight="800">02  INTELLIGENCE</text>
+    <text x="459" y="294" fill="#C4B5FD" font-size="12" font-weight="700" letter-spacing="1">UNDERSTAND, EVALUATE AND REASON</text>
+
+    <text x="834" y="270" fill="#CCFBF1" font-size="19" font-weight="800">03  OPERATIONS</text>
+    <text x="834" y="294" fill="#99F6E4" font-size="12" font-weight="700" letter-spacing="1">TURN OUTPUTS INTO REAL WORKFLOWS</text>
+  </g>
+
+  <!-- Perception chips -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <g fill="#16213A" stroke="#3B82F6" stroke-opacity="0.55">
+      <rect x="82" y="326" width="286" height="38" rx="12"/><rect x="82" y="374" width="286" height="38" rx="12"/>
+      <rect x="82" y="422" width="286" height="38" rx="12"/><rect x="82" y="470" width="286" height="38" rx="12"/>
+      <rect x="82" y="518" width="136" height="38" rx="12"/><rect x="232" y="518" width="136" height="38" rx="12"/>
+    </g>
+    <g fill="#E5E7EB">
+      <text x="100" y="350">SentinelGrid · safety intelligence</text>
+      <text x="100" y="398">FieldSight Edge · inspection</text>
+      <text x="100" y="446">AeroRamp Vision · airport safety</text>
+      <text x="100" y="494">BuildTwin Vision · construction</text>
+      <text x="100" y="542">HarborVision</text>
+      <text x="250" y="542">MotionForge 3D</text>
+    </g>
+  </g>
+
+  <!-- Intelligence chips -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <g fill="#221C33" stroke="#8B5CF6" stroke-opacity="0.55">
+      <rect x="457" y="326" width="286" height="38" rx="12"/><rect x="457" y="374" width="286" height="38" rx="12"/>
+      <rect x="457" y="422" width="286" height="38" rx="12"/><rect x="457" y="470" width="286" height="38" rx="12"/>
+      <rect x="457" y="518" width="136" height="38" rx="12"/><rect x="607" y="518" width="136" height="38" rx="12"/>
+    </g>
+    <g fill="#E5E7EB">
+      <text x="475" y="350">AgentForge Studio · agent operations</text>
+      <text x="475" y="398">AgentRelease · quality gates</text>
+      <text x="475" y="446">CatalogForge AI · multimodal intake</text>
+      <text x="475" y="494">OpsLens AI · decision intelligence</text>
+      <text x="475" y="542">SpeechEval</text>
+      <text x="625" y="542">Document AI</text>
+    </g>
+  </g>
+
+  <!-- Operations chips -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <g fill="#112724" stroke="#14B8A6" stroke-opacity="0.55">
+      <rect x="832" y="326" width="286" height="38" rx="12"/><rect x="832" y="374" width="286" height="38" rx="12"/>
+      <rect x="832" y="422" width="286" height="38" rx="12"/><rect x="832" y="470" width="286" height="38" rx="12"/>
+      <rect x="832" y="518" width="286" height="38" rx="12"/>
+    </g>
+    <g fill="#E5E7EB">
+      <text x="850" y="350">VoxRelay AI · voice operations</text>
+      <text x="850" y="398">FinCore Ledger · payments platform</text>
+      <text x="850" y="446">Edge AI Systems · efficient inference</text>
+      <text x="850" y="494">Backend Platforms · APIs and queues</text>
+      <text x="850" y="542">Observability · metrics and audit trails</text>
+    </g>
+  </g>
+
+  <path d="M225 576V612H600" stroke="#60A5FA" stroke-width="2.5"/>
+  <path d="M600 576V612" stroke="#A78BFA" stroke-width="2.5"/>
+  <path d="M975 576V612H600" stroke="#2DD4BF" stroke-width="2.5"/>
+
+  <g filter="url(#project_ecosystem_shadow)">
+    <rect x="322" y="612" width="556" height="60" rx="18" fill="#111827" stroke="url(#project_ecosystem_core)" stroke-width="2"/>
+    <text x="600" y="638" text-anchor="middle" fill="#F8FAFC" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="800">REAL-WORLD IMPACT</text>
+    <text x="600" y="659" text-anchor="middle" fill="#CBD5E1" font-size="12" font-family="Arial, Helvetica, sans-serif">safer operations · better decisions · auditable automation</text>
+  </g>
+</g><g transform="translate(0 1460)">
+  <defs>
+    <linearGradient id="engineering_signature_sigBg" x1="0" y1="0" x2="1200" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#11182C"/>
+    </linearGradient>
+    <linearGradient id="engineering_signature_sigLine" x1="93" y1="244" x2="1107" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <filter id="engineering_signature_sigShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="410" rx="28" fill="url(#engineering_signature_sigBg)"/>
+  <rect x="2" y="2" width="1196" height="406" rx="26" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+
+  <text x="58" y="65" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="800">ENGINEERING SIGNATURE</text>
+  <text x="58" y="94" fill="#94A3B8" font-size="15" font-family="Arial, Helvetica, sans-serif">Three principles that shape every serious system I build.</text>
+
+  <path d="M160 150H1040" stroke="url(#engineering_signature_sigLine)" stroke-opacity="0.35" stroke-width="2"/>
+
+  <g filter="url(#engineering_signature_sigShadow)">
+    <rect x="58" y="132" width="342" height="220" rx="24" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.62" stroke-width="2"/>
+    <rect x="429" y="132" width="342" height="220" rx="24" fill="#111827" stroke="#22D3EE" stroke-opacity="0.62" stroke-width="2"/>
+    <rect x="800" y="132" width="342" height="220" rx="24" fill="#111827" stroke="#14B8A6" stroke-opacity="0.62" stroke-width="2"/>
+  </g>
+
+  <!-- Target icon -->
+  <circle cx="106" cy="184" r="25" fill="#8B5CF6" fill-opacity="0.13" stroke="#8B5CF6"/>
+  <circle cx="106" cy="184" r="12" stroke="#C4B5FD" stroke-width="2"/>
+  <circle cx="106" cy="184" r="4" fill="#C4B5FD"/>
+  <path d="M121 169L132 158" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M126 158H132V164" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Layers icon -->
+  <circle cx="477" cy="184" r="25" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE"/>
+  <path d="M477 170L493 179L477 188L461 179L477 170Z" stroke="#A5F3FC" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M461 187L477 196L493 187" stroke="#A5F3FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Shield icon -->
+  <circle cx="848" cy="184" r="25" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6"/>
+  <path d="M848 168L862 173V183C862 193 856 199 848 203C840 199 834 193 834 183V173L848 168Z" stroke="#99F6E4" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M842 184L847 189L855 179" stroke="#99F6E4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="92" y="231" fill="#F8FAFC" font-size="20" font-weight="800">Evidence before claims</text>
+    <text x="92" y="264" fill="#CBD5E1" font-size="14">
+      <tspan x="92" dy="0">Measurable outputs, evaluation, evidence</tspan>
+      <tspan x="92" dy="23">capture, review workflows and audit trails.</tspan>
+    </text>
+    <text x="92" y="324" fill="#A78BFA" font-size="12" font-weight="700" letter-spacing="1.2">MEASURE · VERIFY · TRACE</text>
+
+    <text x="463" y="231" fill="#F8FAFC" font-size="20" font-weight="800">Product before demo</text>
+    <text x="463" y="264" fill="#CBD5E1" font-size="14">
+      <tspan x="463" dy="0">Model outputs connected to APIs, databases,</tspan>
+      <tspan x="463" dy="23">dashboards, queues and operator actions.</tspan>
+    </text>
+    <text x="463" y="324" fill="#22D3EE" font-size="12" font-weight="700" letter-spacing="1.2">INTEGRATE · OPERATE · DELIVER</text>
+
+    <text x="834" y="231" fill="#F8FAFC" font-size="20" font-weight="800">Reliability by design</text>
+    <text x="834" y="264" fill="#CBD5E1" font-size="14">
+      <tspan x="834" dy="0">Tests, containers, observability and</tspan>
+      <tspan x="834" dy="23">reproducible data treated as core features.</tspan>
+    </text>
+    <text x="834" y="324" fill="#2DD4BF" font-size="12" font-weight="700" letter-spacing="1.2">TEST · OBSERVE · IMPROVE</text>
+  </g>
+</g><g transform="translate(0 1872)">
+  <defs>
+    <linearGradient id="engineering_loop_track" x1="110" y1="125" x2="1090" y2="125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.25" stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="0.75" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="26" fill="#0B1020"/>
+  <rect x="2" y="2" width="1196" height="246" rx="24" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+  <text x="54" y="52" fill="#F8FAFC" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="800">ENGINEERING LOOP</text>
+  <text x="54" y="79" fill="#94A3B8" font-size="14" font-family="Arial, Helvetica, sans-serif">A repeatable path from idea to measurable impact.</text>
+
+  <path d="M120 138H1080" stroke="url(#engineering_loop_track)" stroke-width="4" stroke-linecap="round"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g>
+      <circle cx="150" cy="138" r="24" fill="#15122A" stroke="#8B5CF6" stroke-width="3"/>
+      <text x="150" y="144" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="800">01</text>
+      <text x="150" y="190" text-anchor="middle" fill="#EDE9FE" font-size="14" font-weight="800">RESEARCH</text>
+      <text x="150" y="211" text-anchor="middle" fill="#94A3B8" font-size="11">models · constraints</text>
+    </g>
+    <g>
+      <circle cx="375" cy="138" r="24" fill="#10233D" stroke="#3B82F6" stroke-width="3"/>
+      <text x="375" y="144" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="800">02</text>
+      <text x="375" y="190" text-anchor="middle" fill="#DBEAFE" font-size="14" font-weight="800">ARCHITECT</text>
+      <text x="375" y="211" text-anchor="middle" fill="#94A3B8" font-size="11">APIs · data · flows</text>
+    </g>
+    <g>
+      <circle cx="600" cy="138" r="24" fill="#0E2A33" stroke="#22D3EE" stroke-width="3"/>
+      <text x="600" y="144" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="800">03</text>
+      <text x="600" y="190" text-anchor="middle" fill="#CFFAFE" font-size="14" font-weight="800">BUILD</text>
+      <text x="600" y="211" text-anchor="middle" fill="#94A3B8" font-size="11">AI · backend · UI</text>
+    </g>
+    <g>
+      <circle cx="825" cy="138" r="24" fill="#0F2A26" stroke="#14B8A6" stroke-width="3"/>
+      <text x="825" y="144" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="800">04</text>
+      <text x="825" y="190" text-anchor="middle" fill="#CCFBF1" font-size="14" font-weight="800">EVALUATE</text>
+      <text x="825" y="211" text-anchor="middle" fill="#94A3B8" font-size="11">quality · safety · cost</text>
+    </g>
+    <g>
+      <circle cx="1050" cy="138" r="24" fill="#35240E" stroke="#F59E0B" stroke-width="3"/>
+      <text x="1050" y="144" text-anchor="middle" fill="#FFFFFF" font-size="13" font-weight="800">05</text>
+      <text x="1050" y="190" text-anchor="middle" fill="#FEF3C7" font-size="14" font-weight="800">SHIP</text>
+      <text x="1050" y="211" text-anchor="middle" fill="#94A3B8" font-size="11">deploy · observe · improve</text>
+    </g>
+  </g>
+</g><g transform="translate(0 2124)">
+  <defs>
+    <linearGradient id="capability_matrix_capBg" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#10182D"/>
+      <stop offset="1" stop-color="#0B1725"/>
+    </linearGradient>
+    <filter id="capability_matrix_capShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="13" flood-color="#000000" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="560" rx="28" fill="url(#capability_matrix_capBg)"/>
+  <rect x="2" y="2" width="1196" height="556" rx="26" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+  <text x="58" y="65" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="800">CAPABILITY MATRIX</text>
+  <text x="58" y="94" fill="#94A3B8" font-size="15" font-family="Arial, Helvetica, sans-serif">Technical layers combined to move from model output to production outcome.</text>
+
+  <g filter="url(#capability_matrix_capShadow)">
+    <rect x="58" y="128" width="1084" height="72" rx="20" fill="#101827" stroke="#60A5FA" stroke-opacity="0.58"/>
+    <rect x="58" y="214" width="1084" height="72" rx="20" fill="#151426" stroke="#A78BFA" stroke-opacity="0.58"/>
+    <rect x="58" y="300" width="1084" height="72" rx="20" fill="#0F2020" stroke="#2DD4BF" stroke-opacity="0.58"/>
+    <rect x="58" y="386" width="1084" height="72" rx="20" fill="#1F1A11" stroke="#F59E0B" stroke-opacity="0.58"/>
+    <rect x="58" y="472" width="1084" height="60" rx="20" fill="#1D141A" stroke="#FB7185" stroke-opacity="0.58"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="88" y="158" fill="#93C5FD" font-size="12" font-weight="800" letter-spacing="1.4">01</text>
+    <text x="128" y="158" fill="#F8FAFC" font-size="19" font-weight="800">Computer Vision</text>
+    <text x="128" y="183" fill="#CBD5E1" font-size="13">Detection · Tracking · OCR · Inspection · Video intelligence · Evidence pipelines</text>
+    <rect x="876" y="145" width="228" height="38" rx="19" fill="#172554" stroke="#3B82F6" stroke-opacity="0.55"/>
+    <text x="990" y="169" text-anchor="middle" fill="#DBEAFE" font-size="12" font-weight="700">PERCEIVE THE WORLD</text>
+
+    <text x="88" y="244" fill="#C4B5FD" font-size="12" font-weight="800" letter-spacing="1.4">02</text>
+    <text x="128" y="244" fill="#F8FAFC" font-size="19" font-weight="800">Agentic Intelligence</text>
+    <text x="128" y="269" fill="#CBD5E1" font-size="13">Tool-using agents · RAG · Evaluation · Policies · Human approval · Memory</text>
+    <rect x="876" y="231" width="228" height="38" rx="19" fill="#2E1A47" stroke="#8B5CF6" stroke-opacity="0.55"/>
+    <text x="990" y="255" text-anchor="middle" fill="#EDE9FE" font-size="12" font-weight="700">REASON WITH CONTROL</text>
+
+    <text x="88" y="330" fill="#5EEAD4" font-size="12" font-weight="800" letter-spacing="1.4">03</text>
+    <text x="128" y="330" fill="#F8FAFC" font-size="19" font-weight="800">Backend Systems</text>
+    <text x="128" y="355" fill="#CBD5E1" font-size="13">FastAPI · PostgreSQL · Redis · Queues · Authentication · Auditability · APIs</text>
+    <rect x="876" y="317" width="228" height="38" rx="19" fill="#11352F" stroke="#14B8A6" stroke-opacity="0.55"/>
+    <text x="990" y="341" text-anchor="middle" fill="#CCFBF1" font-size="12" font-weight="700">POWER THE PRODUCT</text>
+
+    <text x="88" y="416" fill="#FCD34D" font-size="12" font-weight="800" letter-spacing="1.4">04</text>
+    <text x="128" y="416" fill="#F8FAFC" font-size="19" font-weight="800">Operations Software</text>
+    <text x="128" y="441" fill="#CBD5E1" font-size="13">Dashboards · Alerts · Assignments · Review queues · Reports · Operator workflows</text>
+    <rect x="876" y="403" width="228" height="38" rx="19" fill="#3A2A0E" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <text x="990" y="427" text-anchor="middle" fill="#FEF3C7" font-size="12" font-weight="700">TURN SIGNALS INTO ACTION</text>
+
+    <text x="88" y="503" fill="#FDA4AF" font-size="12" font-weight="800" letter-spacing="1.4">05</text>
+    <text x="128" y="503" fill="#F8FAFC" font-size="19" font-weight="800">Production Delivery</text>
+    <text x="128" y="525" fill="#CBD5E1" font-size="13">Docker · CI/CD · Tests · Observability · Runbooks · Reproducible demonstrations</text>
+    <rect x="876" y="483" width="228" height="38" rx="19" fill="#3D1822" stroke="#FB7185" stroke-opacity="0.55"/>
+    <text x="990" y="507" text-anchor="middle" fill="#FFE4E6" font-size="12" font-weight="700">SHIP WITH CONFIDENCE</text>
+  </g>
+</g><g transform="translate(0 2686)">
+  <defs>
+    <linearGradient id="technology_layer_techBg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#10182D"/>
+    </linearGradient>
+    <linearGradient id="technology_layer_techAccent" x1="100" y1="220" x2="1100" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <filter id="technology_layer_techShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="13" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="440" rx="28" fill="url(#technology_layer_techBg)"/>
+  <rect x="2" y="2" width="1196" height="436" rx="26" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+  <text x="58" y="65" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="800">TECHNOLOGY LAYER</text>
+  <text x="58" y="94" fill="#94A3B8" font-size="15" font-family="Arial, Helvetica, sans-serif">A focused stack for complete, inspectable and deployable AI products.</text>
+
+  <path d="M98 231H1102" stroke="url(#technology_layer_techAccent)" stroke-width="2.5" stroke-opacity="0.55"/>
+
+  <g filter="url(#technology_layer_techShadow)">
+    <rect x="58" y="132" width="342" height="244" rx="24" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.58" stroke-width="2"/>
+    <rect x="429" y="132" width="342" height="244" rx="24" fill="#111827" stroke="#22D3EE" stroke-opacity="0.58" stroke-width="2"/>
+    <rect x="800" y="132" width="342" height="244" rx="24" fill="#111827" stroke="#14B8A6" stroke-opacity="0.58" stroke-width="2"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="88" y="178" fill="#EDE9FE" font-size="18" font-weight="800">INTELLIGENCE</text>
+    <text x="88" y="203" fill="#A78BFA" font-size="11" font-weight="700" letter-spacing="1.3">MODELS + PERCEPTION</text>
+    <rect x="88" y="231" width="128" height="38" rx="12" fill="#231A3D"/><text x="152" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Python</text>
+    <rect x="230" y="231" width="140" height="38" rx="12" fill="#231A3D"/><text x="300" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">PyTorch</text>
+    <rect x="88" y="281" width="128" height="38" rx="12" fill="#231A3D"/><text x="152" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">OpenCV</text>
+    <rect x="230" y="281" width="140" height="38" rx="12" fill="#231A3D"/><text x="300" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">YOLO / OCR</text>
+    <text x="88" y="350" fill="#94A3B8" font-size="12">Detection · tracking · retrieval · evaluation</text>
+
+    <text x="459" y="178" fill="#CFFAFE" font-size="18" font-weight="800">APPLICATION</text>
+    <text x="459" y="203" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.3">SERVICES + EXPERIENCE</text>
+    <rect x="459" y="231" width="128" height="38" rx="12" fill="#12323A"/><text x="523" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">FastAPI</text>
+    <rect x="601" y="231" width="140" height="38" rx="12" fill="#12323A"/><text x="671" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Next.js</text>
+    <rect x="459" y="281" width="128" height="38" rx="12" fill="#12323A"/><text x="523" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">TypeScript</text>
+    <rect x="601" y="281" width="140" height="38" rx="12" fill="#12323A"/><text x="671" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">REST / WS</text>
+    <text x="459" y="350" fill="#94A3B8" font-size="12">APIs · dashboards · workflows · interfaces</text>
+
+    <text x="830" y="178" fill="#CCFBF1" font-size="18" font-weight="800">PLATFORM</text>
+    <text x="830" y="203" fill="#5EEAD4" font-size="11" font-weight="700" letter-spacing="1.3">DATA + DELIVERY</text>
+    <rect x="830" y="231" width="128" height="38" rx="12" fill="#13332E"/><text x="894" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">PostgreSQL</text>
+    <rect x="972" y="231" width="140" height="38" rx="12" fill="#13332E"/><text x="1042" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Redis</text>
+    <rect x="830" y="281" width="128" height="38" rx="12" fill="#13332E"/><text x="894" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Docker</text>
+    <rect x="972" y="281" width="140" height="38" rx="12" fill="#13332E"/><text x="1042" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">GitHub Actions</text>
+    <text x="830" y="350" fill="#94A3B8" font-size="12">Persistence · queues · CI/CD · observability</text>
+  </g>
+</g><g transform="translate(0 3128)">
+  <defs>
+    <linearGradient id="closing_banner_closeBg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#151B34"/>
+      <stop offset="1" stop-color="#0C1E24"/>
+    </linearGradient>
+    <linearGradient id="closing_banner_closeAccent" x1="225" y1="120" x2="975" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <radialGradient id="closing_banner_closeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 120) rotate(90) scale(180 520)">
+      <stop stop-color="#22D3EE" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="240" rx="28" fill="url(#closing_banner_closeBg)"/>
+  <rect width="1200" height="240" rx="28" fill="url(#closing_banner_closeGlow)"/>
+  <rect x="2" y="2" width="1196" height="236" rx="26" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+  <path d="M300 69H900" stroke="url(#closing_banner_closeAccent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="600" y="122" text-anchor="middle" fill="#F8FAFC" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800">Build less noise. Ship more proof.</text>
+  <text x="600" y="158" text-anchor="middle" fill="#CBD5E1" font-size="15" font-family="Arial, Helvetica, sans-serif">research  →  architecture  →  implementation  →  evaluation  →  deployment</text>
+  <text x="600" y="199" text-anchor="middle" fill="#67E8F9" font-size="12" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.6">USEFUL · MEASURABLE · RELIABLE</text>
+</g>
+</svg>
