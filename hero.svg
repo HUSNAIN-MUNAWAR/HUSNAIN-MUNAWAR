@@ -1,0 +1,82 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.56" stop-color="#111A33"/>
+      <stop offset="1" stop-color="#0B132B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="128" y1="84" x2="930" y2="322" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(938 201) rotate(90) scale(151)">
+      <stop stop-color="#22D3EE" stop-opacity="0.34"/>
+      <stop offset="0.48" stop-color="#8B5CF6" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="416" rx="26" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="4"/>
+
+  <circle cx="935" cy="206" r="165" fill="url(#orb)"/>
+  <circle cx="935" cy="206" r="111" stroke="url(#accent)" stroke-opacity="0.65" stroke-width="2"/>
+  <circle cx="935" cy="206" r="78" stroke="#FFFFFF" stroke-opacity="0.15"/>
+  <circle cx="935" cy="206" r="42" fill="#0D172F" stroke="url(#accent)" stroke-width="2"/>
+  <text x="935" y="197" text-anchor="middle" fill="#F8FAFC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI</text>
+  <text x="935" y="220" text-anchor="middle" fill="#94A3B8" font-size="11" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">SYSTEMS</text>
+
+  <g stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.92">
+    <path d="M935 95V154"/>
+    <path d="M1046 206H989"/>
+    <path d="M935 317V258"/>
+    <path d="M824 206H881"/>
+    <path d="M856 127L895 166"/>
+    <path d="M1014 127L975 166"/>
+    <path d="M1014 285L975 246"/>
+    <path d="M856 285L895 246"/>
+  </g>
+
+  <g fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">
+    <text x="935" y="80" text-anchor="middle">PERCEPTION</text>
+    <text x="1080" y="211">REASONING</text>
+    <text x="935" y="344" text-anchor="middle">DELIVERY</text>
+    <text x="745" y="211">OPERATIONS</text>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="935" cy="95" r="4" fill="#22D3EE"/>
+    <circle cx="1046" cy="206" r="4" fill="#8B5CF6"/>
+    <circle cx="935" cy="317" r="4" fill="#14B8A6"/>
+    <circle cx="824" cy="206" r="4" fill="#F59E0B"/>
+  </g>
+
+  <rect x="74" y="62" width="58" height="6" rx="3" fill="url(#accent)"/>
+  <text x="74" y="126" fill="#F8FAFC" font-size="50" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="0.4">HUSNAIN MUNAWAR</text>
+  <text x="76" y="166" fill="#A5B4FC" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">AI ENGINEER · COMPUTER VISION · PRODUCTION SYSTEMS</text>
+
+  <text x="76" y="226" fill="#CBD5E1" font-size="23" font-family="Arial, Helvetica, sans-serif">
+    <tspan x="76" dy="0">I build AI systems that move from perception</tspan>
+    <tspan x="76" dy="32">to decision to real-world action.</tspan>
+  </text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+    <rect x="74" y="313" width="170" height="38" rx="19" fill="#8B5CF6" fill-opacity="0.14" stroke="#8B5CF6" stroke-opacity="0.65"/>
+    <text x="159" y="337" text-anchor="middle" fill="#DDD6FE">COMPUTER VISION</text>
+
+    <rect x="258" y="313" width="145" height="38" rx="19" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <text x="330.5" y="337" text-anchor="middle" fill="#CFFAFE">AGENTIC AI</text>
+
+    <rect x="417" y="313" width="190" height="38" rx="19" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6" stroke-opacity="0.65"/>
+    <text x="512" y="337" text-anchor="middle" fill="#CCFBF1">PRODUCTION PLATFORMS</text>
+  </g>
+</svg>
