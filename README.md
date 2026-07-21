@@ -1,190 +1,88 @@
 <div align="center">
 
-# HUSNAIN-MUNAWAR / README.md
+# HUSNAIN-MUNAWAR
+
+### AI Engineer · Computer Vision · Production Systems
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-00C2A8?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FFB000?style=flat-square)
+![Production AI](https://img.shields.io/badge/Production%20AI-FF5A5F?style=flat-square)
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  husnain@github:~$ ./profile --full                                                           │
-├──────────────────────────────────────────────┬───────────────────────────────────────────────┤
-│                                              │                                               │
-│              ██╗  ██╗███╗   ███╗             │  > system.profile                            │
-│              ██║  ██║████╗ ████║             │                                               │
-│              ███████║██╔████╔██║             │  role ............... AI Engineer             │
-│              ██╔══██║██║╚██╔╝██║             │                        Computer Vision Engineer│
-│              ██║  ██║██║ ╚═╝ ██║             │                                               │
-│              ╚═╝  ╚═╝╚═╝     ╚═╝             │  focus .............. Computer Vision         │
-│                                              │                        Edge AI                 │
-│           HUSNAIN MUNAWAR                    │                        Agentic Systems          │
-│                                              │                        RAG & Production AI      │
-│     Research-driven software engineer        │                                               │
-│     building reliable AI systems from        │  languages .......... Python · TypeScript      │
-│     research prototypes to production.       │                        SQL · C++                │
-│                                              │                                               │
-│  husnain@devbox:~$ whoami                    │  frameworks ......... FastAPI · Next.js        │
-│  AI builder · Problem solver · Shipper       │                        OpenCV · PyTorch          │
-│                                              │                                               │
-│                                              │  platform ........... PostgreSQL · Redis       │
-│                                              │                        Docker · GitHub Actions  │
-│                                              │                                               │
-│                                              │  location ........... Pakistan                 │
-│                                              │                                               │
-│                                              │  featured_repo ...... agentforge-studio        │
-│                                              │                                               │
-│                                              │  email .............. husnainbinmunawar        │
-│                                              │                        @gmail.com               │
-│                                              │                                               │
-│                                              │  github ............. HUSNAIN-MUNAWAR          │
-│                                              │                                               │
-├──────────────────────────────────────────────┴───────────────────────────────────────────────┤
-│  "I build working AI products, not decorative demos."                                       │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   ██╗  ██╗███╗   ███╗     husnain@github:~$ ./build-impact                  │
+│   ██║  ██║████╗ ████║                                                        │
+│   ███████║██╔████╔██║     I turn AI research into reliable systems          │
+│   ██╔══██║██║╚██╔╝██║     that detect, reason, automate and improve          │
+│   ██║  ██║██║ ╚═╝ ██║     real-world operations.                            │
+│   ╚═╝  ╚═╝╚═╝     ╚═╝                                                        │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
+
+## What my work delivers
+
+<table>
+<tr>
+<td align="center"><b>👁️ SEE</b><br><sub>Computer vision systems that detect, track, inspect and understand visual environments.</sub></td>
+<td align="center"><b>🧠 REASON</b><br><sub>AI agents and RAG systems with evaluation, evidence, policies and human oversight.</sub></td>
+<td align="center"><b>⚙️ OPERATE</b><br><sub>Production platforms with APIs, dashboards, queues, audit trails and observability.</sub></td>
+<td align="center"><b>🚀 SHIP</b><br><sub>Tested, containerized and documented software designed to run beyond the demo.</sub></td>
+</tr>
+</table>
+
+## Project universe
+
+```text
+VISION & SAFETY
+├── SentinelGrid ........ multi-camera intelligence and safety-event evidence
+├── FieldSight Edge ..... industrial inspection, findings and field operations
+├── AeroRamp Vision ..... airport turnaround and ramp-safety intelligence
+├── BuildTwin Vision .... construction progress and 4D site intelligence
+├── HarborVision Twin ... smart-port and terminal operations intelligence
+└── MotionForge 3D ...... human movement and pose intelligence
+
+AI PRODUCTS & AUTOMATION
+├── AgentForge Studio ... multi-agent workflow operations and evaluation
+├── AgentRelease ........ release gates for agents and RAG applications
+├── CatalogForge AI ..... multimodal catalog intake, validation and publishing
+├── OpsLens AI .......... evidence-backed retail and ERP intelligence
+└── VoxRelay AI ......... voice operations, quality, leads and analytics
+
+PLATFORM ENGINEERING
+├── FinCore Ledger ...... auditable wallet and payment-processing platform
+├── SpeechEval .......... TTS evaluation and regression testing
+└── Edge AI Systems ..... efficient inference, tracking, OCR and deployment
+```
+
+## Engineering signature
 
 <div align="center">
 
-**AI Engineer · Computer Vision Engineer · Production AI Systems**
-
-[GitHub](https://github.com/HUSNAIN-MUNAWAR) ·
-[Email](mailto:husnainbinmunawar@gmail.com) ·
-[Featured Repository](https://github.com/HUSNAIN-MUNAWAR/agentforge-studio)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
----
-
-## `> engineering.focus`
-
 ```text
-┌──────────────────────────────┬───────────────────────────────────────────────────────────────┐
-│ COMPUTER VISION              │ Detection · Tracking · OCR · Video Intelligence · Inspection │
-├──────────────────────────────┼───────────────────────────────────────────────────────────────┤
-│ PRODUCTION AI                │ Agents · RAG · Evaluation · Guardrails · Human Approvals      │
-├──────────────────────────────┼───────────────────────────────────────────────────────────────┤
-│ BACKEND SYSTEMS              │ FastAPI · PostgreSQL · Redis · Queues · Auth · Audit Trails   │
-├──────────────────────────────┼───────────────────────────────────────────────────────────────┤
-│ FULL-STACK ENGINEERING       │ Next.js · TypeScript · Operations Dashboards · Real Workflows │
-├──────────────────────────────┼───────────────────────────────────────────────────────────────┤
-│ ENGINEERING QUALITY          │ Tests · CI/CD · Docker · Observability · Documentation        │
-└──────────────────────────────┴───────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> featured.project`
-
-### [AgentForge Studio](https://github.com/HUSNAIN-MUNAWAR/agentforge-studio)
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  AGENTFORGE STUDIO                                                                          │
-├──────────────────────────────────────────────────────────────────────────────────────────────┤
-│  Self-hosted AgentOps platform for building, running, tracing, approving, evaluating,       │
-│  and extending multi-agent AI workflows.                                                     │
-│                                                                                              │
-│  stack     : Next.js · FastAPI · SQLAlchemy · PostgreSQL · Redis · Docker                    │
-│  runtime   : YAML Agent Packs · Workflow Engine · Tool Registry · Queue-Aware Execution      │
-│  safety    : Policy Guardrails · Approval Queue · Trace Timeline · Evaluation Lab            │
-│  proof     : Working dashboard · tests · seeded scenarios · screenshots · documentation      │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> project.portfolio`
-
-```text
-┌──────────────────────────────────────────┬───────────────────────────────────────────────────┐
-│ SENTINELGRID                             │ Multi-camera video intelligence platform          │
-│                                          │ Intrusion rules · tracking · evidence · review    │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ FIELDSIGHT EDGE                          │ Industrial computer-vision inspection system      │
-│                                          │ Assets · findings · work orders · edge sync       │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ AERORAMP VISION                          │ Airport turnaround and ramp-safety intelligence   │
-│                                          │ Operations visibility · risk events · timelines   │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ BUILDTWIN VISION                         │ Autonomous 4D construction intelligence           │
-│                                          │ Progress tracking · site comparison · evidence    │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ HARBORVISION TWIN                        │ Smart-port and container-terminal intelligence    │
-│                                          │ Yard visibility · movement analytics · alerts     │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ MOTIONFORGE 3D                           │ Human movement intelligence system                │
-│                                          │ Pose analysis · temporal signals · movement QA    │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ AGENTRELEASE                             │ Release gate for RAG chatbots and AI agents       │
-│                                          │ Safety checks · policy gates · regression tests   │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ OPSLENS AI                               │ Retail and ERP operations intelligence            │
-│                                          │ Forecasts · stockout risk · evidence-backed SQL   │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ CATALOGFORGE AI                          │ Multimodal product-intake and publishing system   │
-│                                          │ OCR · validation · taxonomy · duplicate control   │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ VOXRELAY AI                              │ Voice operations control center                   │
-│                                          │ Review · quality · leads · calendar · analytics   │
-├──────────────────────────────────────────┼───────────────────────────────────────────────────┤
-│ FINCORE LEDGER                           │ Digital wallet and payment-processing platform    │
-│                                          │ Ledger integrity · transfers · auditability       │
-└──────────────────────────────────────────┴───────────────────────────────────────────────────┘
-```
-
----
-
-## `> technical.stack`
-
-```text
-AI / CV        Python · OpenCV · PyTorch · YOLO · OCR · Tracking · Retrieval · Evaluation
-BACKEND        FastAPI · SQLAlchemy · PostgreSQL · Redis · REST APIs · WebSockets
-FRONTEND       Next.js · TypeScript · React · Operations Dashboards
-PLATFORM       Docker · Docker Compose · GitHub Actions · Linux · CI/CD
-QUALITY        Pytest · Type Checking · Audit Logs · Metrics · Reproducible Demo Data
-```
-
----
-
-## `> operating.principles`
-
-```text
-01  Build working systems, not decorative demos.
-02  Connect model outputs to real operator workflows.
-03  Make evaluation, evidence, and decisions measurable.
-04  Design APIs and data models for reliability and auditability.
-05  Keep projects reproducible through tests, Docker, seed data, and documentation.
-06  Optimize for real constraints, including CPU-first and edge-friendly execution.
-```
-
----
-
-## `> current.direction`
-
-```text
-$ building
-  production-grade AI and computer-vision systems
-
-$ improving
-  evaluation · safety · observability · edge deployment
-
-$ open_to
-  AI engineering · computer vision · backend systems · open-source collaboration
-```
-
----
-
-## `> contact`
-
-```text
-email   : husnainbinmunawar@gmail.com
-github  : https://github.com/HUSNAIN-MUNAWAR
-repo    : https://github.com/HUSNAIN-MUNAWAR/agentforge-studio
+research  →  architecture  →  implementation  →  evaluation  →  deployment
 ```
 
 <div align="center">
 
-```text
-husnain@devbox:~$ echo "Building reliable AI systems from research to production."
-```
+### Build useful systems. Measure their behavior. Make them reliable.
+
+[![GitHub](https://img.shields.io/badge/GitHub-HUSNAIN--MUNAWAR-181717?style=flat-square&logo=github)](https://github.com/HUSNAIN-MUNAWAR)
+[![Email](https://img.shields.io/badge/Email-husnainbinmunawar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:husnainbinmunawar@gmail.com)
 
 </div>
