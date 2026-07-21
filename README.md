@@ -1,65 +1,101 @@
 <div align="center">
 
-# HUSNAIN-MUNAWAR
+# `HUSNAIN-MUNAWAR`
 
-### AI Engineer · Computer Vision · Production Systems
+### AI Engineer · Computer Vision · Production AI
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square)
-![Edge AI](https://img.shields.io/badge/Edge%20AI-00C2A8?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FFB000?style=flat-square)
-![Production AI](https://img.shields.io/badge/Production%20AI-FF5A5F?style=flat-square)
+![Vision](https://img.shields.io/badge/VISION-6C63FF?style=flat-square)
+![Agents](https://img.shields.io/badge/AGENTS-FFB000?style=flat-square)
+![Edge AI](https://img.shields.io/badge/EDGE_AI-00C2A8?style=flat-square)
+![Platforms](https://img.shields.io/badge/PLATFORMS-FF5A5F?style=flat-square)
 
 </div>
 
 ```text
 ╭──────────────────────────────────────────────────────────────────────────────╮
 │                                                                              │
-│   ██╗  ██╗███╗   ███╗     husnain@github:~$ ./build-impact                  │
+│   ██╗  ██╗███╗   ███╗        husnain@github:~$ ./mission                     │
 │   ██║  ██║████╗ ████║                                                        │
-│   ███████║██╔████╔██║     I turn AI research into reliable systems          │
-│   ██╔══██║██║╚██╔╝██║     that detect, reason, automate and improve          │
-│   ██║  ██║██║ ╚═╝ ██║     real-world operations.                            │
-│   ╚═╝  ╚═╝╚═╝     ╚═╝                                                        │
+│   ███████║██╔████╔██║        BUILD AI THAT CAN                               │
+│   ██╔══██║██║╚██╔╝██║        SEE · REASON · OPERATE · SHIP                   │
+│   ██║  ██║██║ ╚═╝ ██║                                                        │
+│   ╚═╝  ╚═╝╚═╝     ╚═╝        From research idea → reliable product           │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
-## What my work delivers
+<div align="center">
+
+## My work in one line
+
+**I turn AI research into production systems that understand the world, support decisions, and improve real operations.**
+
+</div>
+
+---
+
+## `SYSTEM CAPABILITIES`
 
 <table>
 <tr>
-<td align="center"><b>👁️ SEE</b><br><sub>Computer vision systems that detect, track, inspect and understand visual environments.</sub></td>
-<td align="center"><b>🧠 REASON</b><br><sub>AI agents and RAG systems with evaluation, evidence, policies and human oversight.</sub></td>
-<td align="center"><b>⚙️ OPERATE</b><br><sub>Production platforms with APIs, dashboards, queues, audit trails and observability.</sub></td>
-<td align="center"><b>🚀 SHIP</b><br><sub>Tested, containerized and documented software designed to run beyond the demo.</sub></td>
+<td align="center" width="25%">
+<h3>👁️ SEE</h3>
+<sub>Detection<br>Tracking<br>OCR<br>Inspection<br>Video Intelligence</sub>
+</td>
+<td align="center" width="25%">
+<h3>🧠 REASON</h3>
+<sub>Agents<br>RAG<br>Evaluation<br>Policies<br>Human Oversight</sub>
+</td>
+<td align="center" width="25%">
+<h3>⚙️ OPERATE</h3>
+<sub>APIs<br>Queues<br>Dashboards<br>Audit Trails<br>Observability</sub>
+</td>
+<td align="center" width="25%">
+<h3>🚀 SHIP</h3>
+<sub>Testing<br>Docker<br>CI/CD<br>Documentation<br>Reproducible Demos</sub>
+</td>
 </tr>
 </table>
 
-## Project universe
+---
+
+## `PROJECT CONSTELLATION`
 
 ```text
-VISION & SAFETY
-├── SentinelGrid ........ multi-camera intelligence and safety-event evidence
-├── FieldSight Edge ..... industrial inspection, findings and field operations
-├── AeroRamp Vision ..... airport turnaround and ramp-safety intelligence
-├── BuildTwin Vision .... construction progress and 4D site intelligence
-├── HarborVision Twin ... smart-port and terminal operations intelligence
-└── MotionForge 3D ...... human movement and pose intelligence
-
-AI PRODUCTS & AUTOMATION
-├── AgentForge Studio ... multi-agent workflow operations and evaluation
-├── AgentRelease ........ release gates for agents and RAG applications
-├── CatalogForge AI ..... multimodal catalog intake, validation and publishing
-├── OpsLens AI .......... evidence-backed retail and ERP intelligence
-└── VoxRelay AI ......... voice operations, quality, leads and analytics
-
-PLATFORM ENGINEERING
-├── FinCore Ledger ...... auditable wallet and payment-processing platform
-├── SpeechEval .......... TTS evaluation and regression testing
-└── Edge AI Systems ..... efficient inference, tracking, OCR and deployment
+                                  ┌──────────────────────┐
+                                  │   PRODUCTION AI      │
+                                  │ Agents · RAG · Eval  │
+                                  └──────────┬───────────┘
+                                             │
+         ┌───────────────────────────────────┼──────────────────────────────────┐
+         │                                   │                                  │
+┌────────▼─────────┐              ┌──────────▼─────────┐              ┌─────────▼────────┐
+│  VISION SYSTEMS  │              │  AI OPERATIONS     │              │ PLATFORM SYSTEMS │
+├──────────────────┤              ├────────────────────┤              ├──────────────────┤
+│ SentinelGrid     │              │ AgentForge Studio  │              │ FinCore Ledger   │
+│ FieldSight Edge  │              │ AgentRelease       │              │ SpeechEval       │
+│ AeroRamp Vision  │              │ OpsLens AI         │              │ Edge AI Systems  │
+│ BuildTwin Vision │              │ CatalogForge AI    │              │ Backend Platforms│
+│ HarborVision     │              │ VoxRelay AI        │              │ API Infrastructure│
+│ MotionForge 3D   │              │ Document AI        │              │ Observability    │
+└──────────────────┘              └────────────────────┘              └──────────────────┘
 ```
 
-## Engineering signature
+---
+
+## `IMPACT MAP`
+
+| Domain | What the systems do |
+|---|---|
+| 🟣 **Industrial Vision** | Detect defects, track events, capture evidence, and support human review |
+| 🟢 **Safety Intelligence** | Monitor environments, identify risk, and create auditable incident workflows |
+| 🟡 **Agentic AI** | Orchestrate tools, enforce policies, evaluate outputs, and keep humans in control |
+| 🔵 **Operations Software** | Convert model outputs into dashboards, alerts, assignments, and decisions |
+| 🔴 **Platform Engineering** | Make AI products testable, observable, containerized, and production-ready |
+
+---
+
+## `ENGINEERING DNA`
 
 <div align="center">
 
@@ -75,14 +111,43 @@ PLATFORM ENGINEERING
 </div>
 
 ```text
-research  →  architecture  →  implementation  →  evaluation  →  deployment
+ research
+    │
+    ▼
+ architecture
+    │
+    ▼
+ implementation
+    │
+    ▼
+ evaluation
+    │
+    ▼
+ deployment
+    │
+    ▼
+ measurable impact
+```
+
+---
+
+## `OPERATING PRINCIPLE`
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  Build useful systems.                                                       │
+│  Measure their behavior.                                                     │
+│  Make them reliable.                                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-### Build useful systems. Measure their behavior. Make them reliable.
-
 [![GitHub](https://img.shields.io/badge/GitHub-HUSNAIN--MUNAWAR-181717?style=flat-square&logo=github)](https://github.com/HUSNAIN-MUNAWAR)
 [![Email](https://img.shields.io/badge/Email-husnainbinmunawar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:husnainbinmunawar@gmail.com)
+
+```text
+husnain@devbox:~$ ship --useful --measurable --reliable
+```
 
 </div>
