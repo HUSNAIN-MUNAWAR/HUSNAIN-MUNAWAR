@@ -1,0 +1,55 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="techBg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#10182D"/>
+    </linearGradient>
+    <linearGradient id="techAccent" x1="100" y1="220" x2="1100" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <filter id="techShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="13" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="440" rx="28" fill="url(#techBg)"/>
+  <rect x="2" y="2" width="1196" height="436" rx="26" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="4"/>
+  <text x="58" y="65" fill="#F8FAFC" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="800">TECHNOLOGY LAYER</text>
+  <text x="58" y="94" fill="#94A3B8" font-size="15" font-family="Arial, Helvetica, sans-serif">A focused stack selected for complete, inspectable and deployable AI products.</text>
+
+  <path d="M98 231H1102" stroke="url(#techAccent)" stroke-width="2.5" stroke-opacity="0.55"/>
+
+  <g filter="url(#techShadow)">
+    <rect x="58" y="132" width="342" height="244" rx="24" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.58" stroke-width="2"/>
+    <rect x="429" y="132" width="342" height="244" rx="24" fill="#111827" stroke="#22D3EE" stroke-opacity="0.58" stroke-width="2"/>
+    <rect x="800" y="132" width="342" height="244" rx="24" fill="#111827" stroke="#14B8A6" stroke-opacity="0.58" stroke-width="2"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="88" y="178" fill="#EDE9FE" font-size="18" font-weight="800">INTELLIGENCE</text>
+    <text x="88" y="203" fill="#A78BFA" font-size="11" font-weight="700" letter-spacing="1.3">MODELS + PERCEPTION</text>
+    <rect x="88" y="231" width="128" height="38" rx="12" fill="#231A3D"/><text x="152" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Python</text>
+    <rect x="230" y="231" width="140" height="38" rx="12" fill="#231A3D"/><text x="300" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">PyTorch</text>
+    <rect x="88" y="281" width="128" height="38" rx="12" fill="#231A3D"/><text x="152" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">OpenCV</text>
+    <rect x="230" y="281" width="140" height="38" rx="12" fill="#231A3D"/><text x="300" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">YOLO / OCR</text>
+    <text x="88" y="350" fill="#94A3B8" font-size="12">Detection · tracking · retrieval · evaluation</text>
+
+    <text x="459" y="178" fill="#CFFAFE" font-size="18" font-weight="800">APPLICATION</text>
+    <text x="459" y="203" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.3">SERVICES + EXPERIENCE</text>
+    <rect x="459" y="231" width="128" height="38" rx="12" fill="#12323A"/><text x="523" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">FastAPI</text>
+    <rect x="601" y="231" width="140" height="38" rx="12" fill="#12323A"/><text x="671" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Next.js</text>
+    <rect x="459" y="281" width="128" height="38" rx="12" fill="#12323A"/><text x="523" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">TypeScript</text>
+    <rect x="601" y="281" width="140" height="38" rx="12" fill="#12323A"/><text x="671" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">REST / WS</text>
+    <text x="459" y="350" fill="#94A3B8" font-size="12">APIs · dashboards · workflows · interfaces</text>
+
+    <text x="830" y="178" fill="#CCFBF1" font-size="18" font-weight="800">PLATFORM</text>
+    <text x="830" y="203" fill="#5EEAD4" font-size="11" font-weight="700" letter-spacing="1.3">DATA + DELIVERY</text>
+    <rect x="830" y="231" width="128" height="38" rx="12" fill="#13332E"/><text x="894" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">PostgreSQL</text>
+    <rect x="972" y="231" width="140" height="38" rx="12" fill="#13332E"/><text x="1042" y="255" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Redis</text>
+    <rect x="830" y="281" width="128" height="38" rx="12" fill="#13332E"/><text x="894" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">Docker</text>
+    <rect x="972" y="281" width="140" height="38" rx="12" fill="#13332E"/><text x="1042" y="305" text-anchor="middle" fill="#F8FAFC" font-size="13" font-weight="700">GitHub Actions</text>
+    <text x="830" y="350" fill="#94A3B8" font-size="12">Persistence · queues · CI/CD · observability</text>
+  </g>
+</svg>

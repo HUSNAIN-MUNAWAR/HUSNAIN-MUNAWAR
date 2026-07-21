@@ -1,0 +1,60 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="idBg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.58" stop-color="#101A31"/>
+      <stop offset="1" stop-color="#0B1727"/>
+    </linearGradient>
+    <linearGradient id="idAccent" x1="58" y1="52" x2="1110" y2="281" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <radialGradient id="idGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 154) rotate(90) scale(180)">
+      <stop stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="idShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#idBg)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#idGlow)"/>
+  <rect x="2" y="2" width="1196" height="326" rx="26" stroke="#FFFFFF" stroke-opacity="0.075" stroke-width="4"/>
+
+  <rect x="58" y="48" width="72" height="5" rx="2.5" fill="url(#idAccent)"/>
+  <text x="58" y="88" fill="#94A3B8" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2">01 / PROFILE</text>
+
+  <text x="58" y="137" fill="#F8FAFC" font-size="32" font-family="Arial, Helvetica, sans-serif" font-weight="800">Research-driven systems engineer</text>
+  <text x="58" y="173" fill="#CBD5E1" font-size="18" font-family="Arial, Helvetica, sans-serif">
+    <tspan x="58" dy="0">I connect machine intelligence with reliable software,</tspan>
+    <tspan x="58" dy="28">operator workflows and measurable real-world outcomes.</tspan>
+  </text>
+
+  <g filter="url(#idShadow)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="690" y="52" width="452" height="54" rx="16" fill="#111827" stroke="#8B5CF6" stroke-opacity="0.55"/>
+    <circle cx="724" cy="79" r="8" fill="#8B5CF6"/>
+    <text x="748" y="75" fill="#A5B4FC" font-size="11" font-weight="700" letter-spacing="1.4">ROLE</text>
+    <text x="748" y="94" fill="#F8FAFC" font-size="14" font-weight="700">AI Engineer · Computer Vision Engineer</text>
+
+    <rect x="690" y="116" width="452" height="54" rx="16" fill="#111827" stroke="#22D3EE" stroke-opacity="0.55"/>
+    <circle cx="724" cy="143" r="8" fill="#22D3EE"/>
+    <text x="748" y="139" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.4">FOCUS</text>
+    <text x="748" y="158" fill="#F8FAFC" font-size="14" font-weight="700">Visual intelligence · Agents · Production AI</text>
+
+    <rect x="690" y="180" width="452" height="54" rx="16" fill="#111827" stroke="#14B8A6" stroke-opacity="0.55"/>
+    <circle cx="724" cy="207" r="8" fill="#14B8A6"/>
+    <text x="748" y="203" fill="#5EEAD4" font-size="11" font-weight="700" letter-spacing="1.4">APPROACH</text>
+    <text x="748" y="222" fill="#F8FAFC" font-size="14" font-weight="700">Systems-first · Evidence-based · Product-minded</text>
+
+    <rect x="690" y="244" width="452" height="54" rx="16" fill="#111827" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <circle cx="724" cy="271" r="8" fill="#F59E0B"/>
+    <text x="748" y="267" fill="#FCD34D" font-size="11" font-weight="700" letter-spacing="1.4">MISSION</text>
+    <text x="748" y="286" fill="#F8FAFC" font-size="14" font-weight="700">Make AI useful, measurable and reliable</text>
+  </g>
+
+  <path d="M58 256H630" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="58" y="286" fill="#94A3B8" font-size="13" font-family="Arial, Helvetica, sans-serif">Working at the intersection of</text>
+  <text x="58" y="310" fill="#F8FAFC" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700">perception  ×  intelligence  ×  operations</text>
+</svg>
