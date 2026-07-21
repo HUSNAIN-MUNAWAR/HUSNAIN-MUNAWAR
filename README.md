@@ -12,84 +12,37 @@
 
 <br/>
 
-```text
-husnain@devbox:~$ profile
+<img src="./profile-panel.svg" alt="Professional profile: role, focus, engineering approach and mission" width="100%" />
 
-role        AI Engineer / Computer Vision Engineer
-focus       visual intelligence · agentic AI · production platforms
-approach    research-driven · systems-first · evidence-based
-mission     make AI useful, measurable and reliable
-```
-
-## What connects my work
-
-My repositories are not isolated experiments. They are parts of one engineering direction:
-
-> **Sense the environment → understand what is happening → support a decision → execute a traceable operation**
+<br/>
 
 <img src="./project-ecosystem.svg" alt="Project ecosystem connecting perception, intelligence, operations and real-world impact" width="100%" />
 
-## Engineering signature
+<br/>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="./engineering-signature.svg" alt="Engineering signature: evidence before claims, product before demo and reliability by design" width="100%" />
 
-### Evidence before claims
-
-I design systems around measurable outputs, evaluation, evidence capture, review workflows and audit trails.
-
-</td>
-<td width="33%" valign="top">
-
-### Product before demo
-
-Model outputs are connected to APIs, databases, dashboards, queues, alerts and real operator actions.
-
-</td>
-<td width="33%" valign="top">
-
-### Reliability by design
-
-Testing, Docker, CI/CD, observability and reproducible data are treated as product features—not afterthoughts.
-
-</td>
-</tr>
-</table>
+<br/>
 
 <img src="./engineering-loop.svg" alt="Engineering loop from research through architecture, implementation, evaluation and delivery" width="100%" />
 
-## Core capabilities
+<br/>
 
-| Area | What I build |
-|---|---|
-| **Computer Vision** | Detection, tracking, OCR, inspection, video intelligence and evidence pipelines |
-| **Agentic AI** | Tool-using agents, RAG, evaluation, policy controls and human approval workflows |
-| **Backend Systems** | FastAPI services, PostgreSQL models, Redis queues, authentication and auditability |
-| **Operations Software** | Next.js dashboards, alerts, assignments, review queues and reporting |
-| **Production Delivery** | Docker, CI/CD, tests, observability, runbooks and reproducible demonstrations |
+<img src="./capability-matrix.svg" alt="Capability matrix covering computer vision, agentic AI, backend systems, operations software and production delivery" width="100%" />
 
-## Technology layer
+<br/>
 
-<div align="center">
+<img src="./technology-layer.svg" alt="Technology layer covering intelligence, application and platform engineering" width="100%" />
 
-![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=F8FAFC)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=F8FAFC)
-![OpenCV](https://img.shields.io/badge/OpenCV-1E293B?style=for-the-badge&logo=opencv&logoColor=F8FAFC)
-![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=F8FAFC)
-![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=F8FAFC)
-![Redis](https://img.shields.io/badge/Redis-1E293B?style=for-the-badge&logo=redis&logoColor=F8FAFC)
-![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=F8FAFC)
+<br/>
 
-</div>
+<img src="./closing-banner.svg" alt="Build less noise and ship more proof" width="100%" />
 
 <br/>
 
 <div align="center">
 
-### Build less noise. Ship more proof.
-
-`research → architecture → implementation → evaluation → deployment`
+[![GitHub](https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/HUSNAIN-MUNAWAR)
+[![Email](https://img.shields.io/badge/Start_a_conversation-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainbinmunawar@gmail.com)
 
 </div>
