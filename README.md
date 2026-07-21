@@ -1,15 +1,16 @@
 <div align="center">
 
-# Husnain Munawar
+<img src="./hero.svg" alt="Husnain Munawar — AI Engineer, Computer Vision and Production Systems" width="100%" />
 
-**AI Engineer · Computer Vision Engineer · Production AI Systems**
-
-`I build AI systems that move from perception to decision to real-world action.`
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-HUSNAIN--MUNAWAR-181717?style=flat-square&logo=github)](https://github.com/HUSNAIN-MUNAWAR)
 [![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:husnainbinmunawar@gmail.com)
+![Location](https://img.shields.io/badge/Pakistan-334155?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
+
+<br/>
 
 ```text
 husnain@devbox:~$ profile
@@ -20,128 +21,75 @@ approach    research-driven · systems-first · evidence-based
 mission     make AI useful, measurable and reliable
 ```
 
----
+## What connects my work
 
-## The idea behind my work
+My repositories are not isolated experiments. They are parts of one engineering direction:
 
-My repositories are not isolated demos. Together, they form one engineering direction:
+> **Sense the environment → understand what is happening → support a decision → execute a traceable operation**
 
-> **Sense the environment → understand what is happening → support a decision → automate the operation**
+<img src="./project-ecosystem.svg" alt="Project ecosystem connecting perception, intelligence, operations and real-world impact" width="100%" />
 
-```mermaid
-flowchart LR
-    A["PERCEIVE<br/>images · video · speech · documents"]
-    B["UNDERSTAND<br/>detection · tracking · retrieval · reasoning"]
-    C["DECIDE<br/>evaluation · policies · risk · human review"]
-    D["OPERATE<br/>alerts · workflows · assignments · payments"]
-    E["IMPACT<br/>safer · faster · traceable · reliable"]
-
-    A --> B --> C --> D --> E
-
-    A -.-> V["SentinelGrid · FieldSight Edge<br/>AeroRamp · BuildTwin · HarborVision · MotionForge"]
-    B -.-> I["AgentForge · CatalogForge<br/>SpeechEval · Document AI"]
-    C -.-> G["AgentRelease · OpsLens AI<br/>quality gates · evidence"]
-    D -.-> P["VoxRelay · FinCore Ledger<br/>backend and operations platforms"]
-
-    classDef stage fill:#111827,stroke:#64748B,color:#F8FAFC,stroke-width:1.4px;
-    classDef project fill:#0F2F2B,stroke:#2DD4BF,color:#ECFEFF,stroke-width:1px;
-
-    class A,B,C,D,E stage;
-    class V,I,G,P project;
-```
-
----
-
-## Repository atlas
+## Engineering signature
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Perception systems
+### Evidence before claims
 
-- **SentinelGrid** — multi-camera safety intelligence
-- **FieldSight Edge** — industrial inspection
-- **AeroRamp Vision** — airport ramp safety
-- **BuildTwin Vision** — construction intelligence
-- **HarborVision Twin** — port operations
-- **MotionForge 3D** — movement intelligence
+I design systems around measurable outputs, evaluation, evidence capture, review workflows and audit trails.
 
 </td>
 <td width="33%" valign="top">
 
-### Intelligence systems
+### Product before demo
 
-- **AgentForge Studio** — agent operations
-- **AgentRelease** — AI release gates
-- **CatalogForge AI** — multimodal intake
-- **OpsLens AI** — operational intelligence
-- **SpeechEval** — TTS evaluation
-- **Document AI** — extraction and validation
+Model outputs are connected to APIs, databases, dashboards, queues, alerts and real operator actions.
 
 </td>
 <td width="33%" valign="top">
 
-### Operational platforms
+### Reliability by design
 
-- **VoxRelay AI** — voice operations
-- **FinCore Ledger** — wallet and payments
-- **Edge AI Systems** — efficient inference
-- **Backend Platforms** — APIs and queues
-- **Evaluation Systems** — quality and safety
-- **Observability** — metrics and audit trails
+Testing, Docker, CI/CD, observability and reproducible data are treated as product features—not afterthoughts.
 
 </td>
 </tr>
 </table>
 
----
+<img src="./engineering-loop.svg" alt="Engineering loop from research through architecture, implementation, evaluation and delivery" width="100%" />
 
-## What ties everything together
+## Core capabilities
 
-```text
-MODEL OUTPUT
-     │
-     ▼
-EVIDENCE + CONTEXT
-     │
-     ▼
-RULES + EVALUATION
-     │
-     ▼
-HUMAN OR AUTOMATED DECISION
-     │
-     ▼
-TRACEABLE OPERATION
-```
+| Area | What I build |
+|---|---|
+| **Computer Vision** | Detection, tracking, OCR, inspection, video intelligence and evidence pipelines |
+| **Agentic AI** | Tool-using agents, RAG, evaluation, policy controls and human approval workflows |
+| **Backend Systems** | FastAPI services, PostgreSQL models, Redis queues, authentication and auditability |
+| **Operations Software** | Next.js dashboards, alerts, assignments, review queues and reporting |
+| **Production Delivery** | Docker, CI/CD, tests, observability, runbooks and reproducible demonstrations |
 
-Every serious system I build aims to include:
-
-`real data` · `evaluation` · `auditability` · `operator workflows` · `deployment`
-
----
-
-## Engineering stack
+## Technology layer
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=F8FAFC)
-![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=F8FAFC)
-![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=F8FAFC)
-![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=F8FAFC)
-![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=F8FAFC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=F8FAFC)
-![Redis](https://img.shields.io/badge/Redis-334155?style=flat-square&logo=redis&logoColor=F8FAFC)
-![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=F8FAFC)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=F8FAFC)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=F8FAFC)
+![OpenCV](https://img.shields.io/badge/OpenCV-1E293B?style=for-the-badge&logo=opencv&logoColor=F8FAFC)
+![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=F8FAFC)
+![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=F8FAFC)
+![Redis](https://img.shields.io/badge/Redis-1E293B?style=for-the-badge&logo=redis&logoColor=F8FAFC)
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=F8FAFC)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 ### Build less noise. Ship more proof.
 
-`research → system design → implementation → evaluation → deployment`
+`research → architecture → implementation → evaluation → deployment`
 
 </div>
