@@ -4,18 +4,18 @@
 
 I design AI systems that connect perception, reasoning, and operator workflows: computer vision, document intelligence, agent orchestration, and production-oriented APIs. My portfolio favors inspectable execution over screenshot-only demos—tests, traces, artifacts, failure handling, and explicit limits belong beside the model.
 
-## Start with these repositories
+## Six evidence-backed systems to start with
 
 | System | What to inspect |
 |---|---|
-| [VeriSwarm Orchestrator](https://github.com/HUSNAIN-MUNAWAR/veriswarm-orchestrator) | Bounded agent workflows, approvals, durable events, independent workspace verification, and benchmark limits. |
-| [SceneMotion-3D](https://github.com/HUSNAIN-MUNAWAR/SceneMotion-3D) | Monocular visual odometry, triangulation, depth-assisted clouds, trajectory metrics, and honest relative-scale handling. |
-| [FactoryVision OS](https://github.com/HUSNAIN-MUNAWAR/factoryvision-os) | Real CPU inspection pipeline with tracking, segmentation decisions, anomaly evidence, and release validation. |
-| [FieldSight Edge](https://github.com/HUSNAIN-MUNAWAR/fieldsight-edge) | Offline capture queue, synchronization, deterministic inference boundary, and field report export. |
-| [MotionForge 3D](https://github.com/HUSNAIN-MUNAWAR/motionforge-3d) | Local pose-estimation runtime with reproducible video, trace data, and annotated output. |
-| [Change Order Intelligence](https://github.com/HUSNAIN-MUNAWAR/change-order-intelligence-platform) | Evidence-grounded extraction for PDFs/text/images, local OCR, provenance spans, validation, and schema-safe API output. |
-| [AgentForge Studio](https://github.com/HUSNAIN-MUNAWAR/agentforge-studio) | Tool-using agent graphs, policy controls, approval gates, and explicit mock/provider boundaries. |
-| [FinCore Ledger](https://github.com/HUSNAIN-MUNAWAR/fincore-ledger) | Double-entry payment processing, reconciliation invariants, idempotency, and local runtime evidence. |
+| [VeriSwarm Orchestrator](https://github.com/HUSNAIN-MUNAWAR/veriswarm-orchestrator) | Agent/workspace verification, approval safety, durable events, and independent evidence checks. Current showcase uses an explicit deterministic mock provider. |
+| [FactoryVision OS](https://github.com/HUSNAIN-MUNAWAR/factoryvision-os) | CPU inspection pipeline, tracking, operator decisions, release validation, and honest synthetic-data limits. |
+| [Pharma Capsule Vision](https://github.com/HUSNAIN-MUNAWAR/pharma-capsule-vision) | ConvNeXt capsule classification, held-out image evaluation, and a dataset-matched annotated animation. |
+| [SceneMotion-3D](https://github.com/HUSNAIN-MUNAWAR/SceneMotion-3D) | Monocular reconstruction, trajectory/point-cloud outputs, artifact-derived visuals, and relative-scale disclosures. |
+| [AgentForge Studio](https://github.com/HUSNAIN-MUNAWAR/agentforge-studio) | Tool-using agent graphs, policy controls, approval gates, persisted traces, and explicit provider boundaries. |
+| [CrossDoc AI](https://github.com/HUSNAIN-MUNAWAR/crossdoc-ai-document-intelligence) | Local OCR, multi-document reconciliation, provenance, conflict handling, and exportable evidence. |
+
+Other verified systems: [FieldSight Edge](https://github.com/HUSNAIN-MUNAWAR/fieldsight-edge), [MotionForge 3D](https://github.com/HUSNAIN-MUNAWAR/motionforge-3d), [Change Order Intelligence](https://github.com/HUSNAIN-MUNAWAR/change-order-intelligence-platform), and [FinCore Ledger](https://github.com/HUSNAIN-MUNAWAR/fincore-ledger).
 
 ## Engineering signature
 
@@ -25,7 +25,7 @@ I design AI systems that connect perception, reasoning, and operator workflows: 
 
 ## Portfolio status
 
-As of 2026-11-23, all 26 supplied public-repository inventory entries have reconciled, evidence-backed work or an explicitly documented limitation. The current engineering checkpoint and visual-evidence matrix are maintained in the shared workspace, while each repository keeps its own runnable evidence.
+As of 2026-11-24, all 26 public repositories are reconciled against the live account. Each has either executable evidence or an explicitly documented limitation; the repository READMEs and CI results are the source of truth.
 
 The portfolio deliberately labels synthetic fixtures, fallback providers, OS services, mock agents, relative monocular scale, and unavailable frontend/provider checks. No benchmark or live-model result is claimed unless it was actually run and preserved in the repository.
 
