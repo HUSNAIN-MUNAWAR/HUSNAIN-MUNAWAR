@@ -25,7 +25,7 @@ I design AI systems that connect perception, reasoning, and operator workflows: 
 
 ## Portfolio status
 
-As of 2026-11-23, 24 of the 26 supplied public-repository inventory entries have pushed, evidence-backed work. The remaining follow-up is the profile/reference audit itself and a deeper quality pass for [Pharma Capsule Vision](https://github.com/HUSNAIN-MUNAWAR/pharma-capsule-vision). The full audit checkpoint and limitations are maintained in the shared workspace, while each repository keeps its own runnable evidence.
+As of 2026-11-23, all 26 supplied public-repository inventory entries have reconciled, evidence-backed work or an explicitly documented limitation. The current engineering checkpoint and visual-evidence matrix are maintained in the shared workspace, while each repository keeps its own runnable evidence.
 
 The portfolio deliberately labels synthetic fixtures, fallback providers, OS services, mock agents, relative monocular scale, and unavailable frontend/provider checks. No benchmark or live-model result is claimed unless it was actually run and preserved in the repository.
 
